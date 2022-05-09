@@ -46,3 +46,6 @@ body{
 
 
 }
+.user-form input:focus {
+    outline: none;
+}
