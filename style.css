@@ -49,3 +49,7 @@ body{
 .user-form input:focus {
     outline: none;
 }
+
+.user-form input::placeholder{
+    color: white;
+}
